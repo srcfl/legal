@@ -1,0 +1,8 @@
+version: v1
+effective_at: 2026-04-08
+supersedes: null
+languages:
+  - en
+  - sv
+notes: |
+  Initial version.

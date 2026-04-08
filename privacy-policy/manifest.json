@@ -1,0 +1,5 @@
+{
+  "current_version": "v1",
+  "available_locales": ["en", "sv"],
+  "default_locale": "en"
+}

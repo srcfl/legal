@@ -14,6 +14,17 @@ Zap är en fristående produkt som är tillgänglig för köp och fullt funktion
 
 ---
 
+## 1A. Tjänsten via extern leverantör
+
+Om du har fått tillgång till Tjänsterna via ett externt elbolag, en energileverantör eller annan partner till Sourceful (en **"Tjänsteleverantör"**) gäller följande:
+
+- Ditt avtalsförhållande avseende abonnemang, prissättning, fakturering, support och uppsägning regleras i första hand av de villkor du har ingått med din Tjänsteleverantör. Dessa villkor kan avvika från, eller ha företräde framför, motsvarande bestämmelser i dessa Villkor (särskilt avsnitt 3B, 9, 14 och 15).
+- För frågor om ditt abonnemang, fakturor, betalning eller uppsägning ska du i första hand vända dig till din Tjänsteleverantörs **"Mina Sidor"** eller deras kundtjänst.
+- Dessa Villkor fortsätter att gälla för din användning av själva plattformen, Zap-enheten och Sourcefuls programvara, inklusive bestämmelser om immateriella rättigheter (avsnitt 11–12), användningsbegränsningar (avsnitt 17), missbruk (avsnitt 7) samt ansvarsbegränsning (avsnitt 6 och Bilaga 1, avsnitt 6).
+- Vid eventuell konflikt mellan dessa Villkor och de villkor du ingått med din Tjänsteleverantör avseende abonnemang, fakturering eller support, ska Tjänsteleverantörens villkor ha företräde i den utsträckning det är förenligt med tvingande lag.
+
+---
+
 ## 2. Definitioner
 
 - **Avtal** – dessa Villkor samt eventuella ytterligare policyer eller bilagor som hänvisas till häri.  

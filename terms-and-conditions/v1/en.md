@@ -22,6 +22,17 @@ The Zap is a standalone product available for purchase and is fully functional w
 
 ---
 
+## 1A. Services via External Provider
+
+If you have been granted access to the Services through an external electricity company, energy supplier, or other Sourceful partner (a **"Service Provider"**), the following applies:
+
+- Your contractual relationship regarding subscription, pricing, billing, support, and termination is primarily governed by the terms you have entered into with your Service Provider. Those terms may deviate from, or take precedence over, the corresponding provisions of these Terms (in particular Sections 3B, 9, 14, and 15).
+- For questions regarding your subscription, invoices, payment, or termination, please contact your Service Provider's **"My Pages"** (Mina Sidor) portal or their customer service in the first instance.
+- These Terms continue to apply to your use of the platform itself, the Zap device, and Sourceful's software, including provisions on intellectual property (Sections 11–12), limitations of use (Section 17), misuse (Section 7), and limitation of liability (Section 6 and Appendix 1, Section 6).
+- In the event of any conflict between these Terms and the terms agreed with your Service Provider regarding subscription, billing, or support, the Service Provider's terms shall prevail to the extent permitted by mandatory law.
+
+---
+
 ## 2. Definitions
 
 - **Agreement** – these Terms and any additional policies or appendices referenced herein.  

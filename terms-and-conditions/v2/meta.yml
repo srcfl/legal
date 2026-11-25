@@ -1,0 +1,10 @@
+version: v2
+effective_at: 2026-11-25
+supersedes: v1
+languages:
+  - en
+  - sv
+notes: |
+  Removes references to future utility tokens from the misuse section.
+  No new rights or promises are introduced. v1 remains unchanged as the
+  record of the text previously accepted.

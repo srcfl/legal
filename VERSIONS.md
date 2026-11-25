@@ -6,6 +6,7 @@ Human-readable index of all published versions across every legal document. Newe
 
 | Version | Effective    | Supersedes | Notes              |
 |---------|--------------|------------|--------------------|
+| v2      | 2026-11-25   | v1         | Removes “future utility tokens” / “right to receive tokens” from the misuse section. No new rights or promises. Confirm effective date before merge. |
 | v1      | 2026-04-08   | —          | Initial version.   |
 
 ## Privacy Policy
